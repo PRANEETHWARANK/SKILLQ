@@ -1,4 +1,5 @@
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api';
+const BASE_URL =
+  import.meta.env.VITE_API_URL || 'https://skillq-ek0s.onrender.com/api';
 
 export const apiClient = {
   async runAnalysis(formData: FormData): Promise<any> {

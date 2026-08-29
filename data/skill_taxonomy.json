@@ -1,0 +1,328 @@
+{
+  "Python": {
+    "aliases": [
+      "Python Programming",
+      "Python 3",
+      "Python3",
+      "Python Development",
+      "py"
+    ],
+    "category": "Languages",
+    "related": [
+      "FastAPI",
+      "Django",
+      "PyTorch",
+      "Pandas",
+      "REST APIs"
+    ]
+  },
+  "Machine Learning": {
+    "aliases": [
+      "ML",
+      "Machine Learning Algorithms",
+      "Statistical Learning",
+      "Applied ML"
+    ],
+    "category": "AI / ML",
+    "related": [
+      "Python",
+      "Scikit-Learn",
+      "PyTorch",
+      "Deep Learning"
+    ]
+  },
+  "PyTorch": {
+    "aliases": [
+      "Py Torch",
+      "Torch",
+      "pytorch"
+    ],
+    "category": "AI / ML",
+    "related": [
+      "Python",
+      "Deep Learning",
+      "Transformers",
+      "Neural Networks"
+    ]
+  },
+  "Natural Language Processing": {
+    "aliases": [
+      "NLP",
+      "Natural Language",
+      "Text Processing",
+      "Computational Linguistics"
+    ],
+    "category": "AI / ML",
+    "related": [
+      "Transformers",
+      "Large Language Models (LLMs)",
+      "Python",
+      "BERT"
+    ]
+  },
+  "Large Language Models (LLMs)": {
+    "aliases": [
+      "LLM",
+      "LLMs",
+      "Generative AI",
+      "GenAI",
+      "Prompt Engineering"
+    ],
+    "category": "AI / ML",
+    "related": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Transformers",
+      "LangChain",
+      "Vector Databases"
+    ]
+  },
+  "Retrieval-Augmented Generation (RAG)": {
+    "aliases": [
+      "RAG",
+      "Vector Search",
+      "Semantic Search",
+      "RAG Pipeline"
+    ],
+    "category": "AI / ML",
+    "related": [
+      "Vector Databases",
+      "Embeddings",
+      "FastAPI",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  "JavaScript": {
+    "aliases": [
+      "JS",
+      "Vanilla JS",
+      "Javascript Programming",
+      "ECMAScript"
+    ],
+    "category": "Languages",
+    "related": [
+      "TypeScript",
+      "React",
+      "Node.js"
+    ]
+  },
+  "TypeScript": {
+    "aliases": [
+      "TS",
+      "Typescript Programming"
+    ],
+    "category": "Languages",
+    "related": [
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Node.js"
+    ]
+  },
+  "React": {
+    "aliases": [
+      "React.js",
+      "ReactJS",
+      "React UI"
+    ],
+    "category": "Frontend",
+    "related": [
+      "JavaScript",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux"
+    ]
+  },
+  "FastAPI": {
+    "aliases": [
+      "Fast API",
+      "fastapi"
+    ],
+    "category": "Backend",
+    "related": [
+      "Python",
+      "REST APIs",
+      "Pydantic",
+      "Uvicorn",
+      "PostgreSQL"
+    ]
+  },
+  "Django": {
+    "aliases": [
+      "Django Framework",
+      "Django REST Framework",
+      "DRF"
+    ],
+    "category": "Backend",
+    "related": [
+      "Python",
+      "PostgreSQL",
+      "REST APIs",
+      "Redis"
+    ]
+  },
+  "PostgreSQL": {
+    "aliases": [
+      "Postgres",
+      "PostgreSQL Database",
+      "pgvector",
+      "psql"
+    ],
+    "category": "Databases",
+    "related": [
+      "SQL",
+      "Redis",
+      "Database Optimization",
+      "Relational Modeling"
+    ]
+  },
+  "SQL": {
+    "aliases": [
+      "Structured Query Language",
+      "ANSI SQL",
+      "Relational Queries"
+    ],
+    "category": "Databases",
+    "related": [
+      "PostgreSQL",
+      "MySQL",
+      "Database Optimization"
+    ]
+  },
+  "Redis": {
+    "aliases": [
+      "Redis Cache",
+      "Redis In-Memory",
+      "Redis Key-Value"
+    ],
+    "category": "Databases",
+    "related": [
+      "Caching",
+      "PostgreSQL",
+      "FastAPI",
+      "Django"
+    ]
+  },
+  "Vector Databases": {
+    "aliases": [
+      "Vector DB",
+      "ChromaDB",
+      "Pinecone",
+      "Milvus",
+      "Qdrant",
+      "pgvector"
+    ],
+    "category": "Databases",
+    "related": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Embeddings",
+      "PyTorch"
+    ]
+  },
+  "Docker": {
+    "aliases": [
+      "Docker Container",
+      "Dockerization",
+      "Dockerfile",
+      "Docker Compose",
+      "containerization"
+    ],
+    "category": "DevOps / Cloud",
+    "related": [
+      "Kubernetes",
+      "AWS",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+  "Kubernetes": {
+    "aliases": [
+      "K8s",
+      "Kubernetes Cluster",
+      "Container Orchestration"
+    ],
+    "category": "DevOps / Cloud",
+    "related": [
+      "Docker",
+      "AWS",
+      "Helm",
+      "Cloud Architecture"
+    ]
+  },
+  "AWS": {
+    "aliases": [
+      "Amazon Web Services",
+      "AWS Cloud",
+      "AWS ECS",
+      "AWS S3",
+      "AWS Lambda",
+      "EC2"
+    ],
+    "category": "DevOps / Cloud",
+    "related": [
+      "Cloud Computing",
+      "Docker",
+      "DevOps"
+    ]
+  },
+  "Git": {
+    "aliases": [
+      "GitHub",
+      "Git Version Control",
+      "GitLab",
+      "Version Control"
+    ],
+    "category": "Tools",
+    "related": [
+      "CI/CD",
+      "Linux",
+      "Code Review"
+    ]
+  },
+  "REST APIs": {
+    "aliases": [
+      "RESTful APIs",
+      "REST API",
+      "HTTP APIs",
+      "JSON APIs",
+      "API Design"
+    ],
+    "category": "Backend",
+    "related": [
+      "FastAPI",
+      "Django",
+      "Microservices",
+      "PostgreSQL"
+    ]
+  },
+  "Data Structures & Algorithms": {
+    "aliases": [
+      "DSA",
+      "Data Structures",
+      "Algorithms",
+      "Algorithmic Problem Solving"
+    ],
+    "category": "Core CS",
+    "related": [
+      "Python",
+      "C++",
+      "Java",
+      "System Design"
+    ]
+  },
+  "Automated Testing / TDD": {
+    "aliases": [
+      "Pytest",
+      "Unit Testing",
+      "TDD",
+      "Integration Testing",
+      "Jest"
+    ],
+    "category": "Core CS",
+    "related": [
+      "Clean Code",
+      "Python",
+      "FastAPI",
+      "CI/CD"
+    ]
+  }
+}
